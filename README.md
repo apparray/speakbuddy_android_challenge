@@ -29,16 +29,19 @@ Please read the instructions carefully and ensure they are followed as outlined.
 
 ## Submission Instructions
 
-1. **Fork the Repository**  
-   * Fork the challenge repository: [**GitHub Repository Link**](https://github.com/apparray/speakbuddy_android_challenge) to create a copy under your GitHub account.  
+1. **Create the Repository**  
+   * To create the challenge repository: [**GitHub Repository Link**](https://github.com/apparray/speakbuddy_android_challenge) under your GitHub account, please
+     * Click **Use this template** button on the top right of this page
+     * Click **Create a new repository** item from the drop-down list
+     * Create a new repository under your own GitHub account
 2. **Implement Your Solution**  
-   * Clone your forked repository  
+   * Clone your new repository  
    * Create a new branch  
-   * Implement the required features.  
+   * Implement the required features.
    * Commit changes with clear messages:  
 3. **Push and Create a Pull Request**  
    * Push your branch  
-   * On GitHub, create a pull request from your branch to your fork's `main` branch.  
+   * On GitHub, create a pull request from your branch to **your `main` branch in your own repository**.
    * **Title:** `Android Challenge Submission - Your Name`  
    * **Description:** Include an overview of your implementation and any important notes. ([See Evaluation criteria #6. Documentation for more items](#evaluation-criteria))  
 4. **Submit Your PR Link**  
